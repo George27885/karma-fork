@@ -5,6 +5,7 @@ npm-debug.log
 docs/_build
 *.swp
 *.swo
+ffj
 test/e2e/support/sandbox
 test/e2e/coverage/coverage
 test/e2e/coverageQunit/coverage
